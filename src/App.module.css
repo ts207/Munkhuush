@@ -1,0 +1,15 @@
+.box{
+    background-color: brown;
+}
+.box3{
+    background-color: rgb(253, 255, 127);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.grid{ 
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
